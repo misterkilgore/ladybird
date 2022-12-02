@@ -17,5 +17,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['ladybird'],
-    install_requires=[],
+    install_requires=['re'],
 )
